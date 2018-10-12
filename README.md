@@ -1,2 +1,2 @@
-Reian Clarke Festejo </br>
+Reian Clarke Festejo <br>
 rfestejo@sdsu.edu
