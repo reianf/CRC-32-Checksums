@@ -74,7 +74,6 @@ unsigned long crc(unsigned char *buf, int len) {
 }
 
 int main( int argc, char *argv[] ){
-	printf("Assignment #1-3, Reian Festejo, rfestejo@sdsu.edu\n");	
 	int len;
 	unsigned char* buff;
 	Elf64_Ehdr elfhead; 
