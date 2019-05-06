@@ -41,7 +41,6 @@ unsigned long crc(unsigned char *buf, int len) {
 
 int main( int argc, char *argv[] ){
 	
-	printf("Assignment #1-1, Reian Festejo, rfestejo@sdsu.edu\n");
 	int len;
 	unsigned char* buff;
 	unsigned int crc32;	
